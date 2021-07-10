@@ -6,7 +6,7 @@ Technology stack used -> MongoDB, Express, React, Node
 # Create
 <img src='./image.gif' height="500" />
 
-# Edit or Delete
+# Edit, Delete and Like
 <img src='./image2.gif' height="500" />
 
 cd server -> npm start
