@@ -1,2 +1,2 @@
 # MemoriesRelived
-<img src='./image.gif' height="720" />
+<img src='./image.gif' height="500" />
